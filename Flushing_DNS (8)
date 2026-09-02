@@ -1,0 +1,28 @@
+Project Title: Windows Flush Domain Name Server 
+
+Problem: User reports IP address could not be found .
+
+Steps Taken:
+1. Testing to see if DNS working at all 
+2. Reset the network stack 
+3. Check to see if the Wi-Fi Driver is updated.
+4.Restart the PC
+
+Root Cause: Outdated IPs 
+Solution: Flush DNS Cache
+Outcome: User able to have connection to the internet again . 
+
+Tools Used: Command prompt, Device manager 
+
+![Root Cause1](<../Screenshot%202026-09-02%20165341.png>)
+
+![Root Cause2](<../Screenshot 2026-09-01 162749.png>)
+
+![Resolution 1](<../Screenshot%202026-08-26%20151816.png>)
+
+![Resolution 2](<../Screenshot 2026-08-26 152002.png>)
+
+![Resolution 3](<../Screenshot 2026-08-26 152006.png>)
+![Resolution 4](<../Screenshot 2026-09-02 165341.png>)
+
+![Final Outcome](<../Screenshot 2026-08-26 152524.png>)
