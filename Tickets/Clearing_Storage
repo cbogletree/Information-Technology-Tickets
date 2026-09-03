@@ -1,0 +1,29 @@
+Project Title: Windows Clearing Storage 
+
+Problem: User reports computer is really slow
+
+Steps Taken:
+1. Checked to see how free space they have 
+2. Used the clean up recommendations 
+3. Clean the temporary files / large amd unused files 
+
+Root Cause: Had very little storage for the computer to perform better 
+Solution: Clear temporary files / large amd unused files. I did clear up some apps
+Outcome: The computer is so much faster. 
+
+Tools Used: Cleanup recommendation
+
+**Root Cause Analysis:**
+
+![Root Cause1](<../Images/Screenshot 2026-08-24 162410.png>)
+![Root Cause2](<../Images/Screenshot 2026-08-24 162650.png>)
+
+**Resolution Steps:**
+
+![Resolution1](<../Images/Screenshot 2026-08-24 162539.png>)
+![Resolution2](<../Images/Screenshot 2026-08-24 163233.png>)
+![Resolution3](<../Images/Screenshot 2026-08-24 164054.png>)
+
+**Final Outcome:**
+
+![Final Outcome](<../Images/Screenshot 2026-08-24 235920.png>)
